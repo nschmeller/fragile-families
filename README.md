@@ -11,3 +11,5 @@ We used Git Large File Storage to share large files. This means we have a local 
 3. https://help.github.com/en/articles/collaboration-with-git-large-file-storage
 
 The large files take up about 650 MB of disk space. 
+
+Or, the large files can be accessed via OPR or a cloud storage for team members. @nick basically it doesn't matter if you have git LFS or not because if you locally copy the files to the repo then the pointers should line up but it might be useful to know how to do this in the future. 
