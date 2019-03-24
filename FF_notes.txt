@@ -1,0 +1,72 @@
+Interesting things to do with the data
+
+
+Data Categories
+
+Continuous: GPA, Grit, Material Hardship
+Binary: Eviction, Layoff, Job Training (for a caregiver)
+
+
+-Grit
+
+-Job Training
+
+-Combine data science and social science
+-Use a variety of classifiers and thoughtfully explain each application
+(Experimental idea, use a variety of classifiers and average the
+results from some of them?)
+
+-Selecting all binary or all continuous, and looking at the relations between accuracies for each
+for a model
+
+-Look at features and find relevant ones
+
+-Focus on constructed features
+-Maybe look for unconstructed feature that could be as useful?
+
+-Single Feature choice (GRIT)
+
+
+-Test Grit vs depression/mental happiness
+-Drop mixing values for NA in train/test csvs
+
+
+
+
+
+GENERAL APPROACH
+
+1)
+Write about the general problem
+Describe a specific research question we will try to answer (How does the relevance of 
+mothers and fathers change over time?)
+Describe why it's relevant and important
+
+2) Data processing decision making and rationale
+hypothesize about relevant features?
+List a bunch of classifiers that can be used to predict the things
+Describe how certain classifiers will be of particular use
+
+3) Evaluation and spotlight classifier
+
+4) Analyze results
+ROC curves/standard analysis metrics
+Look at the strongest and weakest predictors of grit
+Look at a feature we chose that confuses our model the most with regards to grit
+(maybe threshold it with the average value of the numerical error?)
+Look into things like why grit may be more complicated as a predictive/general feature
+Correlate grit to some kind of happiness score?
+
+5) Draw general statistical conclusions
+Further directions of research
+Theoretical approaches and applications to social work
+
+
+-Feature selection ratio?
+-mother, father, kid, teacher,
+
+-Father later years
+-Mother earlier years
+
+-Comparison of how relevant mothers and fathers over time
+
