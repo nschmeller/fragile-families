@@ -2,7 +2,7 @@
 ## spring 2019
 ### Nicholas Kim and Nicholas Schmeller
 
-to be written, if we put anything in here. maybe we can go public with our results as well once we finish, because fragile families is a pretty public thing
+FINAL PRODUCT: https://www.overleaf.com/read/vnyfjtwzwdsh
 
 ### multiple imputation
 not sure if we'll need to use multiple imputation here, but if we do, there's a Python implementation called missingno by ResidentMario (https://github.com/ResidentMario/missingno). The resources for FFP are for the most part social science data visualization tools like R and Stata
